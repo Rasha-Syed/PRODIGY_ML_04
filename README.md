@@ -1,4 +1,4 @@
-# Task 03 : Hand Gesture Recognition Model
+# Task 04 : Hand Gesture Recognition Model
 
 ## Objective
 Develop a Convolutional Neural Network (CNN) model to accurately identify and classify different hand gestures from image data, enabling intuitive human-computer interaction and gesture-based control systems.
